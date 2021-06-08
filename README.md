@@ -2,17 +2,17 @@
 
 [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/deep-learning-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/artificial-neural%20retwork-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/convolutional%20-neural%20network-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/MNIST-dataset-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Graphical%20-UI-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Tesseract-OCR-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/python-3.6-green)](https://shields.io/) 
 
-***This new Handeriting Recognizer using Python is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Handeriting Recognizer using Python is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
 
-**Email Id: bbiswa471@gmail.com.** 
+**Email Id: ankita.sikder14@gmail.com.** 
 
-**Contact No: 916290272740.** 
+**Contact No: 8583939774.** 
 
 
 <p align="left">
-<a href="https://facebook.com/biswarup.bhattacharjee.5811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
-<a href="https://instagram.com/biswarup2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://facebook.com/ankita.sikder.104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
+<a href="https://instagram.com/ankita.sikder14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/biswa2210/ankitasikder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ## About :point_down: 
@@ -22,9 +22,9 @@
 **I have made this project but just for group project purpose my class mates' as well as group members' names are written in developers area.** Handwriting recognition (HWR), also known as Handwritten Text Recognition (HTR), is the ability of a computer to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, touch-screens and other devices. The image of the written text may be sensed "off line" from a piece of paper by optical scanning (optical character recognition) or intelligent word recognition. Alternatively, the movements of the pen tip may be sensed "on line", for example by a pen-based computer screen surface, a generally easier task as there are more clues available. A handwriting recognition system handles formatting, performs correct segmentation into characters, and finds the most possible words. I have made a handwritten recognizer for recognising both handwritten text and OCR. By running a python program in computer user can use it. I have made a GUI to make it user friendly. It can recognize characters and numbers written with hand or optical character. After detection we get 99% accurate results. It can be implemented in many areas in present digital world. Python-tesseract is used to recognize and read the text. In handwriting recognition (HWR) the device interprets the user's handwritten characters or words into a format that the computer understands (e.g., Unicode text). The input can be from paper documents, images, touch-screens and other devices. There are many levels of HWR, starting from the recognition of simplified individual characters to the recognition of whole words and sentences of cursive handwriting. Character recognition often involves scanning a form or document. This means the individual characters contained in the scanned image will need to be extracted. After the extraction of individual characters occurs, a recognition engine is used to identify the corresponding character. OCR systems consist of following major stages : • Classification • Post-processing • Feature Extraction. This Handwriting recognition is used for numerous applications such as : reading postal addresses, bank check amounts, and forms. Furthermore, OCR plays an important role for digital libraries, allowing the entry of image textual information into computers by digitization, image restoration, and recognition methods. 
 </div>
 
-**:point_right: [click here to read Project1 Research Paper](https://github.com/biswa2210/PROJECT-1-UEMK/blob/master/3rdSemProject1ResearchPaper.pdf)<br>
-:point_right: [click here to see Project1 PowerPoint Presentation](https://drive.google.com/file/d/16rftW-uNvv6KIOxdEnpGsC0js1hqR0Fi/view)<br>
-:point_right: [click here to view or download Project1 Demo Video](https://drive.google.com/file/d/1tpUvWbsJbWVD_u-boNK_VNQJz8GSQ5fi/view)**
+**:point_right: [click here to read Project1 Research Paper]()<br>
+:point_right: [click here to see Project1 PowerPoint Presentation]()<br>
+:point_right: [click here to view or download Project1 Demo Video]()**
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="pics/hr1.PNG">
