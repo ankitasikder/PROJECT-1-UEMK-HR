@@ -9,9 +9,13 @@ poklist=["pok.wav","pok2.wav"]
 clicked=lambda:PlaySound(random.choice(poklist),SND_FILENAME)
 #----------------------------->
 #developers functions....
-"""CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
+"""ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
 """
 def biswa():
     pok=Tk()
