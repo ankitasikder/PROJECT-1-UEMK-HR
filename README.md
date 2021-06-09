@@ -24,7 +24,7 @@
 
 **:point_right: [click here to read Project1 Research Paper](https://github.com/ankitasikder/PROJECT-1-UEMK-HR/blob/main/3rdSemProject1ResearchPaper.pdf)<br>
 :point_right: [click here to see Project1 PowerPoint Presentation]()<br>
-:point_right: [click here to view or download Project1 Demo Video]()**
+:point_right: [click here to view or download Project1 Demo Video](https://github.com/ankitasikder/PROJECT-1-UEMK-HR/blob/main/SAMPLE%20OUTPUT/3SEM%20PROJECT.mp4)**
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="pics/hr1.PNG">
