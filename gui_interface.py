@@ -8,9 +8,13 @@ from ocr_gui import ocr_gui
 from winsound import *
 import random
 """
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
 """
 poklist=["pok.wav","pok2.wav"]
 #------------------------------------------->
