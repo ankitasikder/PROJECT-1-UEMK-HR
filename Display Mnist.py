@@ -2,9 +2,13 @@ import matplotlib
 import matplotlib.pyplot as plt
 #display mnist data digits
 """
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
 """
 from sklearn.datasets import fetch_openml
 mnist=fetch_openml('mnist_784')
