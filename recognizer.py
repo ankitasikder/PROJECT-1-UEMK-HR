@@ -4,9 +4,13 @@ import numpy as np
 import cv2
 from tkinter import filedialog
 '''
-CREATED BY BISWARUP BHATTACHARJEE
-EMAIL    : bbiswa471@gmail.com
-PHONE NO : 6290272740
+ANKITA SIKDER
+
+STUDENT OF BTECH, IN UEMK
+
+CONTACT NO.: 8583939774
+
+EMAIL ID: ankita.sikder14@gmail.com
 '''
 #Browsing Only Image Files(.jpg format)
 def browseimg():
