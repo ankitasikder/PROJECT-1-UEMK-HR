@@ -1,10 +1,7 @@
 
-***This new Handwriting Recognizer using Python is created by Ankita Sikder and also other group members special credit goes to Biswarup Bhattacharjee(@biswa2210), student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new Handwriting Recognizer using Python is created by Ankita Sikder and other group members who are students of BTECH, in University of Engineering and Management, Kolkata.***
 
-**Email Id: ankita.sikder14@gmail.com.** 
-
-**Contact No: 8583939774.** 
-
+**Email Id: ankita.sikder14@gmail.com.**
 
 <p align="left">
 <a href="https://facebook.com/ankita.sikder.104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
@@ -100,6 +97,7 @@ PROJECT-1-UEMK
 <div align="justified">
    
 **I have made this using python3.** I have used CNN, ANN concepts, deep learning, MNIST datasets, lamda function, numpy, pandas, matplotlib, sklearn, keras, tensorflow, tkinter, SGD(Stockastic Gradient Decent), opencv , pillow, pyttsx3, kernel etc for this project. Here I have used training and testing data sets for model detection. Now let me come to the OCR part of this project. I have used CNN(Convolutional Neural Network) for matrix manupulation.
+</div>
 
 ## Screenshots :point_down: 
 
